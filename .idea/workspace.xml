@@ -4,6 +4,35 @@
     <list default="true" id="5f1049be-877b-4001-963d-ba5c019c9df4" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/AbstractSandwichFactory$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/AbstractSandwichFactory$Country.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/AbstractSandwichFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/AmericanFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/FranceFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/Store/GreekFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/YummyStore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/CheeseSandwich.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/Sandwich$Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/Sandwich.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/StandardSandwich.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/VeganSandwich.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/AmericanDressing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Baguette.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/BalsamicoDressing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Bread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Brie.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Cheddar.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Cheese.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Dressing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Feta.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/FrenchDressing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/IcebergLettuce.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Lettuce.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Olivenbrot.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/PaprikaSalami.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/PoultrySalami.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/Salami.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ExerciseOne/sandwich/ingredients/WhiteBread.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -653,12 +682,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541676562501</updated>
       <workItem from="1541676566001" duration="6160000" />
-      <workItem from="1541759530829" duration="5888000" />
+      <workItem from="1541759530829" duration="5912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12048000" />
+    <option name="totallyTimeSpent" value="12072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
@@ -673,7 +702,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
