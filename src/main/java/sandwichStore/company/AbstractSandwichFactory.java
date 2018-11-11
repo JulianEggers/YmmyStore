@@ -1,10 +1,10 @@
-package ExerciseOne.Store;
+package sandwichStore.company;
 
-import ExerciseOne.sandwich.CheeseSandwich;
-import ExerciseOne.sandwich.Sandwich;
-import ExerciseOne.sandwich.StandardSandwich;
-import ExerciseOne.sandwich.VeganSandwich;
-import ExerciseOne.sandwich.ingredients.*;
+import sandwichStore.sandwich.CheeseSandwich;
+import sandwichStore.sandwich.Sandwich;
+import sandwichStore.sandwich.StandardSandwich;
+import sandwichStore.sandwich.VeganSandwich;
+import sandwichStore.sandwich.ingredients.*;
 
 public abstract class AbstractSandwichFactory {
 

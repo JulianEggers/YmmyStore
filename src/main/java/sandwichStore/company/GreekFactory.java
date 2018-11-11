@@ -1,7 +1,6 @@
-package ExerciseOne.Store;
+package sandwichStore.company;
 
-import ExerciseOne.sandwich.Sandwich;
-import ExerciseOne.sandwich.ingredients.*;
+import sandwichStore.sandwich.ingredients.*;
 
 class GreekFactory extends AbstractSandwichFactory {
 

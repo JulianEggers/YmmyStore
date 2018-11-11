@@ -1,4 +1,4 @@
-package ExerciseOne.sandwich;
+package sandwichStore.sandwich;
 
 public interface Sandwich {
 

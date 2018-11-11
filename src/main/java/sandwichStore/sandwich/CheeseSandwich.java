@@ -1,8 +1,8 @@
-package ExerciseOne.sandwich;
+package sandwichStore.sandwich;
 
-import ExerciseOne.sandwich.ingredients.Bread;
-import ExerciseOne.sandwich.ingredients.Dressing;
-import ExerciseOne.sandwich.ingredients.Lettuce;
+import sandwichStore.sandwich.ingredients.Bread;
+import sandwichStore.sandwich.ingredients.Dressing;
+import sandwichStore.sandwich.ingredients.Lettuce;
 
 public class CheeseSandwich implements Sandwich {
 

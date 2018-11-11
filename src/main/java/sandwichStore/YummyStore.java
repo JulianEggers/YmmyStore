@@ -1,7 +1,7 @@
-package ExerciseOne;
+package sandwichStore;
 
-import ExerciseOne.Store.AbstractSandwichFactory;
-import ExerciseOne.sandwich.Sandwich;
+import sandwichStore.company.AbstractSandwichFactory;
+import sandwichStore.sandwich.Sandwich;
 
 public class YummyStore {
 
